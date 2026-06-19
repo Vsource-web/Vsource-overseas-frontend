@@ -233,8 +233,8 @@ const Hero = () => {
                 APPLY NOW
               </motion.button>
               <img
-                src="/assets/images/20 years logo.webp"
-                alt="20 Years Logo"
+                src="/assets/images/21-years-logo.png"
+                alt="21 Years Logo"
                 className="w-20 h-auto mt-4 "
                 loading="eager"
                 decoding="async"
