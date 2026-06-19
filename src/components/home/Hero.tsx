@@ -132,7 +132,7 @@ const Hero = () => {
               <img
                 src="/assets/images/21YEARSLOGO.png"
                 alt="21 Years Logo"
-                className="w-52 h-auto"
+                className="w-32 h-auto"
                 loading="lazy"
                 decoding="async"
                 fetchPriority="high"
