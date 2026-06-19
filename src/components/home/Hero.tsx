@@ -130,7 +130,7 @@ const Hero = () => {
               className="flex justify-start pt-6"
             >
               <img
-                src="/assets/images/21-years-logo.png"
+                src="/assets/images/21YEARSLOGO.png"
                 alt="21 Years Logo"
                 className="w-52 h-auto"
                 loading="lazy"
@@ -233,7 +233,7 @@ const Hero = () => {
                 APPLY NOW
               </motion.button>
               <img
-                src="/assets/images/21-years-logo.png"
+                src="/assets/images/21YEARSLOGO.png"
                 alt="21 Years Logo"
                 className="w-20 h-auto mt-4 "
                 loading="eager"
