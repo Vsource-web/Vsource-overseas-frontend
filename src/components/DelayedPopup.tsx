@@ -185,7 +185,7 @@ const DelayedPopup: React.FC<DelayedPopupProps> = ({ onMinimize }) => {
                 <p className=" font-medium">TOP UNIVERSITIES • LOW PACKAGES</p>
 
                 <p className="text-xl font-medium">
-                  APPLY NOW FOR SEP 2026 INTAKE
+                  APPLY NOW FOR JAN 2026 INTAKE
                 </p>
 
                 {/* Close button */}
