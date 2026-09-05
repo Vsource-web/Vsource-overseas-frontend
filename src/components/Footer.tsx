@@ -146,7 +146,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 md:pt-8 pt-5">
           <h2 className="text-2xl font-bold mb-6">CORPORATE OFFICE</h2>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {/* Telangana */}
             <div>
               <h4 className="font-semibold mb-2 text-xl">TELANGANA</h4>
@@ -202,7 +202,7 @@ const Footer = () => {
             </div>
 
             {/* Karnataka */}
-            <div>
+            {/* <div>
               <h4 className="font-semibold mb-2 text-xl">KARNATAKA</h4>
               {[
                 {
@@ -216,7 +216,7 @@ const Footer = () => {
                   <p className="text-gray-400 text-sm">{branch.address}</p>
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
         </div>
 
