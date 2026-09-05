@@ -13,7 +13,7 @@ const Footer = () => {
           {/* Column 1: Company Info & Socials */}
           <div>
             <p className="text-gray-400 mb-4">
-              Your trusted educational consultancy with 20+ years of experience
+              Your trusted educational consultancy with 21+ years of experience
               in university admissions, overseas education, and educational
               loans.
             </p>
